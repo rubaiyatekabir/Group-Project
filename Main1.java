@@ -5,7 +5,7 @@ class Item{
     public String name , Category;
     public int quantity , price;
 }
-public class Main {
+public class Main1 {
     static Scanner scanner = new Scanner(System.in);
     static ArrayList<Item> list = new ArrayList<Item>();
 
